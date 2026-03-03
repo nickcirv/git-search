@@ -1,0 +1,27 @@
+{
+  "name": "git-search",
+  "version": "1.0.0",
+  "description": "Powerful search across your git history. Messages, code changes, files, authors, dates.",
+  "type": "module",
+  "bin": {
+    "git-search": "./index.js",
+    "gs": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "search",
+    "history"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-search"
+  }
+}
