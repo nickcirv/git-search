@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-search
 > Powerful search across git history. Messages, code changes, files, authors, dates.
 
